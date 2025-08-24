@@ -20,7 +20,7 @@ This repo includes:
 - 🎨 UI tweaks: artist name coloring, layout adjustments
 - 🎤 MUSE Player with karaoke `.lrc` support
 - 🧩 MKOnlineMusicPlayer using local JSON playlist (no external API)
-- 🎛️ zhai-music client player — inspired by myhkw (2011)
+- 🎛️ zhai-music client player — inspired by myhkw (2018)
 
 > Most projects are forks with personal tweaks.  
 > I’m still learning — feel free to suggest improvements or contribute!
@@ -34,7 +34,7 @@ Bộ sưu tập các trình phát nhạc mình đã fork và tùy chỉnh:
 - 🎨 Tùy chỉnh giao diện: màu sắc tên ca sĩ, nhạc sĩ
 - 🎤 MUSE Player hỗ trợ karaoke `.lrc`
 - 🧩 MKOnlineMusicPlayer dùng playlist JSON nội bộ (không phụ thuộc API)
-- 🎛️ zhai-music client player — lấy cảm hứng từ myhkw player (2011)
+- 🎛️ zhai-music client player — lấy cảm hứng từ myhkw player (2018)
 
 > Mình không phải dev chuyên nghiệp, chỉ là người yêu nhạc và thích vọc code.  
 > Nếu bạn có góp ý hay, mình rất sẵn lòng học hỏi!
@@ -48,7 +48,7 @@ Bộ sưu tập các trình phát nhạc mình đã fork và tùy chỉnh:
 - 🎨 UI 调整：歌手名字颜色、界面布局
 - 🎤 MUSE Player 支持歌词 `.lrc` 显示
 - 🧩 MKOnlineMusicPlayer 使用本地 JSON 播放列表（无需 API）
-- 🎛️ zhai-music 客户端播放器 — 灵感来自 myhkw 播放器（2011）
+- 🎛️ zhai-music 客户端播放器 — 灵感来自 myhkw 播放器（2018）
 
 > 我不是专业开发者，只是一个热爱音乐和代码的爱好者。  
 > 欢迎提出建议或一起改进！
